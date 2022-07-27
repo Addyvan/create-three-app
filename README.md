@@ -5,3 +5,10 @@ A lightweight, opinionated boilerplate for three.js projects.
 Features:
 - [x] dev server with websocket powered hot reloading 
 - [ ] production bundling / building
+
+## Quickstart
+
+```bash
+npm install
+npm start
+```
